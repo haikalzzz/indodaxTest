@@ -1,2 +1,2 @@
 # indodaxTest
-technical test
+cara running: npx playwright test --headed
